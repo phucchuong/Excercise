@@ -1,0 +1,7 @@
+**/*.vcxproj
+**/*.filters
+**/*.db
+**/*.tlog
+**/*.idb
+**/*.manifest
+**/*.o
